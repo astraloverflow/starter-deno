@@ -48,5 +48,5 @@ export const prettierrc = `{
 `;
 
 // out to ./mod.ts
-export const modts = `export {}
+export const modts = `export {};
 `;
