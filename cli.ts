@@ -2,8 +2,8 @@ import * as files from "./files.ts";
 import {
   ensureDirSync,
   existsSync,
-} from "https://deno.land/std@0.83.0/fs/mod.ts";
-import * as colors from "https://deno.land/std@0.83.0/fmt/colors.ts";
+} from "https://deno.land/std@0.86.0/fs/mod.ts";
+import * as colors from "https://deno.land/std@0.86.0/fmt/colors.ts";
 
 const projectPath = Deno.args[0].endsWith("/")
   ? Deno.args[0]

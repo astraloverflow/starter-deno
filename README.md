@@ -10,7 +10,7 @@
 
 ## Requirements
 
-- Deno (1.6 or higher)
+- Deno (1.7 or higher)
 
 ## Usage
 
